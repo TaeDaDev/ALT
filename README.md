@@ -9,7 +9,7 @@ This project serves two purposes:
 
 ---
 
-# 🌟 **Why ALT Matters**
+#  **Why ALT Matters**
 
 Modern products hide behind complicated labels. ALT cuts through the noise with:
 
@@ -22,7 +22,7 @@ ALT empowers users to make small, daily swaps that add up to long-term health.
 
 ---
 
-# 🚀 **Features**
+#  **Features**
 
 ### ✔️ **Scan Products Instantly**
 
